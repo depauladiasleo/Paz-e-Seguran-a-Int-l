@@ -1,0 +1,90 @@
+mission,mission_country,mission_country_iso_3,mission_hq,mission_hq_longitude,mission_hq_latitude,mission_continent,mission_region,mission_un_bloc,mission_p5g4a3,mission_nam,mission_g77,mission_au,mission_arab_league,mission_oic,mission_cis,mission_g20,mission_eu,mission_nato,mission_g8,mission_oecd,mission_asean,mission_oas,mission_shanghai,mission_gcc,mission_uma,mission_comesa,mission_censad,mission_eac,mission_eccas,mission_ecowas,mission_igad,mission_sadc
+ONUCA,Honduras,HND,Tegucigalpa,14.1,-87.2167,South America,Central America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNAVEM,Angola,AGO,Luanda,-8.8383,13.2344,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+UNTSO,Israel,ISR,Jerusalem,31.7833,35.2167,Asia,Western Asia,WEOG,None,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+UNFICYP,Cyprus,CYP,Nicosia,35.1667,33.3667,Asia,Western Asia,APG,None,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNIIMOG,Iran,IRN,Tehran,34.5147,47.9282,Asia,Southern Asia,APG,None,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNDOF,Syrian Arab Republic,SYR,Camp Faouar,33.2367,35.9211,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNMOGIP,Pakistan,PAK,Islamabad,33.7167,73.0667,Asia,Southern Asia,APG,None,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNIFIL,Lebanon,LBN,Naquora,33.12,35.1342,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNIKOM,Iraq,IRQ,Umm Qasr,30.0342,47.9294,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MINURSO,Western Sahara,ESH,Laayoune,27.1536,-13.2033,Africa,Northern Africa,Non-Member State,None,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ONUSAL,El Salvador,SLV,San Salvador,13.69,-89.19,South America,Central America,GRULAC,None,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNAMIC,Cambodia,KHM,Phnom Penh,11.55,104.917,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+UNTAC,Cambodia,KHM,Phnom Penh,11.55,104.917,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+UNPROFOR,Croatia,HRV,Zagreb,45.8167,15.9833,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNOSOM,Somalia,SOM,Mogadishu,2.0333,45.35,Africa,Eastern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+ONUMOZ,Mozambique,MOZ,Maputo,-25.9667,32.5833,Africa,Eastern Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UNOMUR,Uganda,UGA,Kabale,-1.25,29.99,Africa,Eastern Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+UNOMIL,Liberia,LBR,Monrovia,6.3133,-10.8014,Africa,Western Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNOMIG,Georgia,GEO,SukhumI,43.0033,41.0153,Asia,Western Asia,EEG,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNAMIR,Rwanda,RWA,Kigali,-1.9439,30.0594,Africa,Eastern Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+UNAVEM II,Angola,AGO,Luanda,-8.8383,13.2344,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+UNOSOM II,Somalia,SOM,Mogadishu,2.0333,45.35,Africa,Eastern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+UNMIH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNMOT,Tajikistan,TJK,Dushanbe,38.5367,68.78,Asia,Central Asia,APG,None,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UNCRO,Croatia,HRV,Zagreb,45.8167,15.9833,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNPREDEP,Macedonia,MKD,Skopje,42,21.4333,Europe,Southern Europe,EEG,None,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNMOP,Croatia,HRV,Cavtat,42.5667,18.2167,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNPF,Croatia,HRV,Zagreb,45.8167,15.9833,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNTAES,Croatia,HRV,Vukovar,45.35,19.0033,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNFOR,Croatia,HRV,Zagreb,45.8167,15.9833,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IPTF,Bosnia and Herzegovina,BIH,Sarajevo,43.8667,18.4167,Europe,Southern Europe,EEG,None,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNMIBH,Bosnia and Herzegovina,BIH,Sarajevo,43.8667,18.4167,Europe,Southern Europe,EEG,None,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNSMIH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MINUGUA,Guatemala,GTM,Guatemala City,14.6333,-90.55,South America,Central America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LBB,Italy,ITA,Brindisi,40.6333,17.9333,Europe,Southern Europe,WEOG,None,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+MONUA,Angola,AGO,Luanda,-8.8383,13.2344,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+UNTMIH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MIPONUH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNPSG,Croatia,HRV,Zagreb,45.8167,15.9833,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MINURCA,Central African Republic,CAF,Bangui,4.3667,18.5833,Africa,Middle Africa,AG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UNOMSIL,Sierra Leone,SLE,Freetown,8.4844,-13.2344,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNAMSIL,Sierra Leone,SLE,Freetown,8.4844,-13.2344,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNMIK,Serbia,SRB,Pristina,42.6667,21.1667,Europe,Southern Europe,EEG,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNAMET,Timor-Leste,TLS,Dili,-8.5667,125.567,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONUC,DR Congo,COD,Kinshasa,-4.325,15.3222,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+UNTAET,Timor-Leste,TLS,Dili,-8.5667,125.567,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BONUCA,Central African Republic,CAF,Bangui,4.3667,18.5833,Africa,Middle Africa,AG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UNOA,Angola,AGO,Luanda,-8.8383,13.2344,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+MICAH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNMEE,Eritrea,ERI,Asmara,12.1817,38.8367,Africa,Eastern Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+UNMISET,Timor-Leste,TLS,Dili,-8.5667,125.567,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNMA,Angola,AGO,Luanda,-8.8383,13.2344,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+UNAMA,Afghanistan,AFG,Kabul,34.5333,69.1667,Asia,Southern Asia,APG,None,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MINUCI,Cote d Ivoire,CIV,Abidjan,5.3167,-4.0333,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNMIL,Liberia,LBR,Monrovia,6.3133,-10.8014,Africa,Western Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNOCI,Cote d Ivoire,CIV,Abidjan,5.3167,-4.0333,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+MINUSTAH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ONUB,Burundi,BDI,Bujumbura,-3.3833,29.3667,Africa,Eastern Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+UNMIS,Sudan,SDN,Khartoum,15.6333,32.5333,Africa,Northern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+ONUCI,Cote d Ivoire,CIV,Abidjan,5.3167,-4.0333,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNOTIL,Timor-Leste,TLS,Dili,-8.5667,125.567,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNAMI,Iraq,IRQ,Baghdad,33.3333,44.4333,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNIOSIL,Sierra Leone,SLE,Freetown,8.4844,-13.2344,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNMIT,Timor-Leste,TLS,Dili,-8.5667,125.567,Asia,South-Eastern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BINUB,Burundi,BDI,Bujumbura,-3.3833,29.3667,Africa,Eastern Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+UNMIN,Nepal,NPL,Kathmandu,27.7,85.3333,Asia,Southern Asia,APG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MINURCAT,Chad,TCD,Ndjamena,12.1131,15.0492,Africa,Middle Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UNAMID,Sudan,SDN,El Fasher,13.6306,25.35,Africa,Northern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+MONUSCO,DR Congo,COD,Kinshasa,-4.325,15.3222,Africa,Middle Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+BNUB,Burundi,BDI,Bujumbura,-3.3833,29.3667,Africa,Eastern Africa,AG,None,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+UNMISS,South Sudan,SSD,Juba,4.85,31.6,Africa,Eastern Africa,AG,None,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+UNISFA,Sudan,SDN,Abyei Town,9.6,28.4333,Africa,Northern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+UNSMIS,Syrian Arab Republic,SYR,Damascus,33.5131,36.2919,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MINUSMA,Mali,MLI,Bamako,-8,12.65,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNMISS,South Sudan',SSD,Juba,4.85,31.6,Africa,Eastern Africa,AG,None,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+MINUSMA,Mali,MLI,Bamako,12.65,-8,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+MINUSCA,Central African Republic,CAF,Bangui,4.3667,18.5833,Africa,Middle Africa,AG,None,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+UNSOM,Somalia,SOM,Mogadishu,2.0333,45.35,Africa,Eastern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+UNMC,Colombia,COL,NA,0,0,South America,South America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNSOS,Somalia,SOM,Mogadishu,2.0333,45.35,Africa,Eastern Africa,AG,None,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+UNMC,Colombia,COL,Bogota,-74.0636,4.6243,South America,South America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNIOGBIS,Guinea-Bissau,GNB,Bissau,-15.5976,11.8635,Africa,Western Africa,AG,None,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNOWAS,Senegal,SEN,Dakar,-17.444,14.6937,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNSMIL,Libya,SEN,Tripoli,13.1801,32.8853,Africa,Western Africa,AG,None,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+UNVMC,Colombia,COL,Bogota,-74.0636,4.6243,South America,South America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MINUJUSTH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNVMC,Colombia,COL,NA,0,0,South America,South America,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UNMHA,Yemen,YEM,Al Hudaydah,14.7909,42.9709,Asia,Western Asia,APG,None,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BINUH,Haiti,HTI,Port-au-Prince,18.5333,-72.3333,South America,Caribbean,GRULAC,None,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
